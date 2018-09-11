@@ -1,0 +1,19 @@
+body
+{
+    width: 100%;
+    height: auto;
+    background-color:  rgb(164, 164, 173);
+    text-align: center;
+}
+.rectangle
+{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(28, 19, 156);
+    top: 400px;
+}
+div
+{
+    position: relative;
+    left: 45%;
+}
